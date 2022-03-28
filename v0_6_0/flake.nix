@@ -11,7 +11,6 @@
   inputs.src-nimjl-v0_6_0.ref   = "refs/tags/v0.6.0";
   inputs.src-nimjl-v0_6_0.owner = "Clonkk";
   inputs.src-nimjl-v0_6_0.repo  = "nimjl";
-  inputs.src-nimjl-v0_6_0.dir   = "";
   inputs.src-nimjl-v0_6_0.type  = "github";
   
   inputs."arraymancer".owner = "nim-nix-pkgs";
