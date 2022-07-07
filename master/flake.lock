@@ -20,11 +20,11 @@
       },
       "locked": {
         "dir": "v0_7_12",
-        "lastModified": 1656748422,
-        "narHash": "sha256-i+uwS6sLZFLTft1DjebwL1KqGy7rgtK9jlB3UzytGqQ=",
+        "lastModified": 1657154605,
+        "narHash": "sha256-A5M8OxMrg5I23IqBYxsjU4r6C7MLJC+GbXBxCikbHNY=",
         "owner": "nim-nix-pkgs",
         "repo": "arraymancer",
-        "rev": "4cc37b2b159243a3697725ab9f17bb97d1dad01c",
+        "rev": "88a8c4df54fbb2ae691b7efe43ef11993a51226c",
         "type": "github"
       },
       "original": {
